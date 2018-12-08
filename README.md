@@ -7,7 +7,10 @@ ExclusiveCoin Support
 Block #1688000](https://drive.google.com/file/d/1gOZdvJDylPzzlobs3KUyPZ81IUMuJtbA/view?usp=sharing)
 
 This link, it's to download the bootstrap file for fast synchronization with the Blockchain of EXCL Network.
-The Release Date is from December 08, 2018. Please, just copy to the ExclusiveCoin Folder, than it will load fast as possible until Block 1688000
+
+The release date is from December 08, 2018.
+
+Please, just copy the bootstrap file ( *bootstrap.dat* ) to the ExclusiveCoin Folder, than it will load fast as possible until Block 1688000
 
 I will try maintain this up-to-date every 2 Weeks with new versions of Bootstrap. 
 

@@ -18,6 +18,7 @@ PS: Actually, it’s not possible to upload files here, more than 100 Mb, it req
 
 **2 - ToDo**
   - EXCL Blockchain Explorer with public domain for the EXCL Community
+    [(On Progress)](https://github.com/OttoKoester/ExclusiveCoin/projects/1#column-3990172)
   - Update QT-Wallet (Versions for Ubuntu, Pi, Mac, Windows)
   - Documentation
  

@@ -3,8 +3,8 @@ ExclusiveCoin Support
 
 **1 - Bootstrap for fast Blockchain sync (release date from 12-08-2018 )**
 
-[Bootstrap Release Date 12-08-2018
-Block #1688000](https://drive.google.com/file/d/1gOZdvJDylPzzlobs3KUyPZ81IUMuJtbA/view?usp=sharing)
+[Bootstrap Release Date 12-17-2018
+Block #1795000](https://drive.google.com/file/d/17D9YmvSwijHhM68p6an94ZNsKbtwhcB6/view)
 
 This link, it's to download the bootstrap file for fast synchronization with the Blockchain of EXCL Network.
 
